@@ -27,7 +27,7 @@ of the partial field by changing the model parameters (e.g. The cracking ratio) 
 working times.
 
 
-<img width="222" alt="image" src="https://user-images.githubusercontent.com/129967291/230223863-846a9635-5784-4082-9f3b-bf626d79dce6.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/129967291/230223863-846a9635-5784-4082-9f3b-bf626d79dce6.png">
 
 
 
